@@ -1,0 +1,25 @@
+_repo: Theodor-Leschetizky_43915
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 43915-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Hullah, Annette
+    gutenberg_agent_id: '42472'
+    url: http://www.gutenberg.org/2009/agents/42472
+description: ''
+gutenberg_issued: '2013-10-08'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '43915'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+series_note: Living masters of music
+subjects:
+- !lcc 'ML'
+- !lcsh 'Leschetizky, Theodor, 1830-1915'
+title: Theodor Leschetizky
+url: http://www.gutenberg.org/ebooks/43915
