@@ -9,6 +9,8 @@ creator:
     gutenberg_agent_id: '42472'
     url: http://www.gutenberg.org/2009/agents/42472
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/43915#Theodor-Leschetizky
 gutenberg_issued: '2013-10-08'
 gutenberg_type: Text
 identifiers:
